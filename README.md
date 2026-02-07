@@ -37,7 +37,7 @@ The model is expected to learn patterns and relationships between the input feat
 
 The model will learn how different medical factors contribute to the likelihood of diabetes and use this knowledge to make predictions on unseen data.
 
-##Methodology Diagram
+## Methodology Diagram
 
 The methodology diagram was designed using an online diagram-generation tool (Mermaid Live Editor) to visually represent the machine learning workflow.
 Artificial intelligence assistance was used to help structure and format the workflow diagram clearly and professionally.
